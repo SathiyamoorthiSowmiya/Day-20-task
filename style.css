@@ -1,0 +1,22 @@
+
+.container {
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+    background-color:rgb(155, 143, 143);
+  }
+  span {
+    display: block;
+    align-items: center;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+    height: 500px;
+    width: auto;
+    color: rgb(218, 13, 41);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+  }
+  
